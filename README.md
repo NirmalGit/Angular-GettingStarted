@@ -57,3 +57,4 @@ Stackblitz does not seem to recognize the Font Awesome icons. So you will instea
 Stackbliz has the Angular CLI commands built in. Instead of installing the Angular CLI to your system, right-click on a folder in Stackblitz and you'll see an "Angular Generator" option. Under that menu you'll find the Angular CLI commands.
 
 This is the change by nirmal from master
+Readme is changed by nirmal for feature branch
